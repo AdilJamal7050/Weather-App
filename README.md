@@ -1,1 +1,2 @@
 # Weather-App
+This is my Project created using HTML ,CSS and JavaScript .Here we get to know the Temperature ,Humidity and windspeed of various cities accross the globe.Here the user is asked to enter the city and using API we fetch the weather of the desired city and display infront of the user .It also tracks the location of the user and gives the weather update of the current city where the user resides.
